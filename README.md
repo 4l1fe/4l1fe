@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**4l1fe/4l1fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+ 888888ba             dP   dP                                  dP                   
+ 88    `8b            88   88                                  88                   
+a88aaaa8P' dP    dP d8888P 88d888b. .d8888b. 88d888b.    .d888b88 .d8888b. dP   .dP 
+ 88        88    88   88   88'  `88 88'  `88 88'  `88    88'  `88 88ooood8 88   d8' 
+ 88        88.  .88   88   88    88 88.  .88 88    88    88.  .88 88.  ... 88 .88'  
+ dP        `8888P88   dP   dP    dP `88888P' dP    dP    `88888P8 `88888P' 8888P'   
+                .88                                                              
+            d8888P                                                               
+```            
